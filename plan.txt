@@ -6,5 +6,7 @@
 5. typescript 
 6. golang
 7. java 
+  *learning logic java
+    ^ become work job in tokopedia
 8. professional programmer
 9. buy the house and new car for holiday

@@ -1,0 +1,9 @@
+1. flutter
+2. ui/ux mobile app 
+3. javascript
+* logic thinking code
+4. python
+5. typescript 
+6. golang
+7. java 
+8. professional programmer
